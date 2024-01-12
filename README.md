@@ -1,3 +1,3 @@
 |1. Blog on Exploring Movie Data Insights|[Explanation Link](https://medium.com/@manisetharasipalli/exploring-movie-data-insights-202c6c52a152)
 |-|-|
-![best-movie-data]([https://www.shutterstock.com/image-photo/movie-projector-on-dark-background-260nw-753798850.jpg](https://image.shutterstock.com/display_pic_with_logo/356110/374366230/stock-photo-retro-film-production-accessories-still-life-concept-of-film-making-smoke-effect-on-background-374366230.jpg)https://image.shutterstock.com/display_pic_with_logo/356110/374366230/stock-photo-retro-film-production-accessories-still-life-concept-of-film-making-smoke-effect-on-background-374366230.jpg)
+![best-movie-data](https://www.arcgis.com/sharing/rest/content/items/7af3d4599c2f448299b2392d60528db1/info/thumbnail/ago_downloaded.jpg?w=800)
